@@ -52,7 +52,7 @@
     background-color: #87ceeb;
     margin: 20px auto;
     position: relative;
-    text-align: center;
+
 }
 
 #bottom-child01,
@@ -62,19 +62,11 @@
     height: 100px;
     background-color: #e5dcf0;
     position: absolute;
-    left: 200px; 
-}
-
-#bottom-child01 {
-    top: 0px;
-    left: 0px;
 }
 
 #bottom-child02 {
-    top: 100px;
     left: 200px;
 }
 
 #bottom-child03 {
-    top: 200px;
     left: 400px;}
